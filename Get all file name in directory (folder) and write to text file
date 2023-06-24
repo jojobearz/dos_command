@@ -1,0 +1,8 @@
+Rem : Open your dos command
+Rem : Goto director or folder which the target files is located
+Rem : Type the following command and specify your result file name
+Rem : dir is a dos commmand that retrive file information from current directory
+Rem : /b is mean get only file name
+Rem : > is mean store result to file
+
+dir /b > FileList.txt
