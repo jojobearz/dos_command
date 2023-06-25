@@ -1,0 +1,8 @@
+Rem : Shutdown Windows
+Rem : Open dos command
+Rem : Enter following command to shutdown Windows
+Rem : Use parameter /a to abort the shutdown process
+
+shutdown
+
+shutdown /a
